@@ -1,0 +1,29 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+
+# Node.js / Vue.js
+node_modules/
+/dist/
+npm-debug.log
+yarn-error.log
+*.env
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
