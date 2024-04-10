@@ -18,3 +18,4 @@ y guardarlos en una lista de favoritos que se guarda en una base de datos por us
 ## Estado del Proyecto
 
 El proyecto todavia se encuentra en desarrollo con la funcionalidad basica funcionando.
+![image](https://github.com/jmgiannotti/Libreria-Espiral/assets/82852920/8a4742b1-a25c-41cf-aaa5-eeafba3d375f)
